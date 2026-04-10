@@ -109,7 +109,7 @@ chat_messages   -- Persisted conversation history per agent
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/agentops-command-center.git
+git clone https://github.com/basobaso03/agentops-command-center.git
 cd agentops-command-center
 
 # Install backend dependencies
